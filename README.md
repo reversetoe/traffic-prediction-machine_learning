@@ -114,9 +114,9 @@ streamlit run app.py
 GitHub: https://github.com/reversetoe
 
 ### Poovarasan
-GitHub: Add GitHub profile link here
+GitHub: https://github.com/Poovarasan072
 
 ### Raja Vignesh
-GitHub: Add GitHub profile link here
+GitHub: https://github.com/rajavignesh-IT
 
 ---

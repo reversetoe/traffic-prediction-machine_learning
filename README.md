@@ -86,13 +86,13 @@ streamlit run app.py
 ## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](Screenshot%202026-05-18%20153858.png)
+![Home Page](Screenshot%202026-05-19%20211259.png)
 
 ### Prediction Result
-![Prediction Result](Screenshot%202026-05-18%20154758.png)
+![Prediction Result](Screenshot%202026-05-19%20211358.png)
 
 ### Traffic Dashboard
-![Dashboard](Screenshot%202026-05-18%20153924.png)
+![Dashboard](Screenshot%202026-05-19%20211322.png)
 
 ---
 

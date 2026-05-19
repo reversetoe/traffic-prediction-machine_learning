@@ -1,6 +1,6 @@
 # Traffic Prediction Machine Learning
 
-A machine learning-based web application that predicts traffic congestion levels using real-time traffic parameters. The system uses ML models to classify traffic conditions as Low, Moderate, or High traffic.
+A machine learning-based web application that predicts traffic congestion levels using real-time traffic parameters. The system uses ML models to classify traffic conditions as **Low**, **Moderate**, or **High** traffic.
 
 ---
 
@@ -83,9 +83,16 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Screenshots
 
-Add screenshots of your Streamlit application here.
+### Home Page
+![Home Page](Screenshot%202026-05-18%20153858.png)
+
+### Prediction Result
+![Prediction Result](Screenshot%202026-05-18%20154758.png)
+
+### Traffic Dashboard
+![Dashboard](Screenshot%202026-05-18%20153924.png)
 
 ---
 
@@ -98,11 +105,15 @@ Add screenshots of your Streamlit application here.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Vishnu Vardhan**  
+### Vishnu Vardhan
 GitHub: https://github.com/reversetoe
-**Poovarasan**
-Github:
-**Raja Vignesh**
-Github:
+
+### Poovarasan
+GitHub: Add GitHub profile link here
+
+### Raja Vignesh
+GitHub: Add GitHub profile link here
+
+---

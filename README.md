@@ -1,4 +1,4 @@
-# Traffic Prediction Machine Learning
+# Traffic Prediction And Analysis
 
 A machine learning-based web application that predicts traffic congestion levels using real-time traffic parameters. The system uses ML models to classify traffic conditions as **Low**, **Moderate**, or **High** traffic.
 
@@ -23,6 +23,7 @@ A machine learning-based web application that predicts traffic congestion levels
 - Scikit-learn
 - Machine Learning
 - Git & GitHub
+- Apache Spark
 
 ---
 ## Dataset ##
